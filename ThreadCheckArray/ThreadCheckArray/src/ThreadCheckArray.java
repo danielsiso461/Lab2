@@ -80,3 +80,4 @@ public class ThreadCheckArray implements Runnable
 		}
 	}
 }
+

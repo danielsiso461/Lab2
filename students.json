@@ -1,0 +1,50 @@
+[
+  {
+    "firstName": "celine",
+    "lastName": "shawkan",
+    "email": "Celine.Shawkan@e.braude.ac.il",
+    "courses": [
+      "מחשוב ענן",
+      "חדוא 1",
+      "מבני נתונים ומבוא לאלגורתמים",
+      "אלגורתמים"
+    ],
+    "interestingLink": "https://github.com/"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Siso",
+    "email": "daniel.siso@e.braude.ac.il",
+    "courses": [
+      "מחשוב ענן",
+      "טכנולוגיות ווב",
+      "קומפילציה",
+      "אנגלית טכנית יישומית"
+    ],
+    "interestingLink": "https://github.com/"
+  },
+  {
+    "firstName": "יעל",
+    "lastName": "ורובלבסקי",
+    "email": "Yael.Wroblevsky@e.braude.ac.il",
+    "courses": [
+      "מחשוב ענן",
+      "טכנולוגיות ווב",
+      "קומפילציה",
+      "אנגלית טכנית יישומית"
+    ],
+    "interestingLink": "https://github.com/"
+  },
+  {
+    "firstName": "Arthur",
+    "lastName": "haimov",
+    "email": "Arthurhaimov@e.braude.ac.il",
+    "courses": [
+      "מחשוב ענן",
+      "טכנולוגיות ווב",
+      "קומפילציה",
+      "אנגלית טכנית יישומית"
+    ],
+    "interestingLink": "https://github.com/"
+  }
+]
